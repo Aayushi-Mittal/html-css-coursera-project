@@ -6,10 +6,11 @@
 
 #### By the end of the project, you will be hosting a website that you can use to showcase your work and your résumé to the world!
 
+👀 [See Demo here](https://aayushi-mittal.github.io/html-css-coursera-project/index.html)
+
 ⏩ [Link for Project](https://www.coursera.org/projects/build-portfolio-website-html-css)
 
 ⏩ [Certificate Of Completion](https://coursera.org/share/a78db38a3d8779ecd6a9a3d1dac9ffff)
-
 
 ## Any Doubts?
 📧 [mail here](mailto:aayushimittal088@gmail.com)
